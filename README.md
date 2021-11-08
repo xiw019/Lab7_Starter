@@ -1,2 +1,2 @@
 # Xianglong Wang
-xiw019.com/Lab7_Starter
+http://xiw019.com/Lab7_Starter/
